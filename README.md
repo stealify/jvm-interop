@@ -1,5 +1,5 @@
 # jvm-interop
-A Collection of Modules to create Tasks for JVM Java, Kotlin, GraalVM Interop 
+A Collection of Modules to create Tasks for JVM Java, Kotlin, GraalVM Interop mostly diffrent patterns to use vertx 
 
 ## Why?
 GraalVM is a Collection of Tools to Build Binarys via a LLVM Backend and Frontend from Polyglot Input Sources. It offers the Truffle API as corre connection part between the language to translate. the Truffle API uses the JVM-CI to get Compiler Feedback it is Compare able to LLVM 
